@@ -16,32 +16,32 @@
     </h1>
 
     <div class="space-x-2">
-        <a href="/examples/basic"
+        <a href="/public/examples/basic"
            class="bg-indigo-500 border rounded-lg p-2 text-white text-sm"
         >
             Basic
         </a>
-        <a href="/examples/custom-component"
+        <a href="/public/examples/custom-component"
            class="bg-indigo-500 border rounded-lg p-2 text-white text-sm"
         >
             Custom Component
         </a>
-        <a href="/examples/as-form-input"
+        <a href="/public/examples/as-form-input"
            class="bg-indigo-500 border rounded-lg p-2 text-white text-sm"
         >
             As Form Input
         </a>
-        <a href="/examples/livewire"
+        <a href="/public/examples/livewire"
            class="bg-indigo-500 border rounded-lg p-2 text-white text-sm"
         >
             Livewire
         </a>
-        <a href="/examples/customization"
+        <a href="/public/examples/customization"
            class="bg-indigo-500 border rounded-lg p-2 text-white text-sm"
         >
             Customization
         </a>
-        <a href="/examples/drag-drop"
+        <a href="/public/examples/drag-drop"
            class="bg-indigo-500 border rounded-lg p-2 text-white text-sm"
         >
             Drag and Drop
